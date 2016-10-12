@@ -25,7 +25,7 @@ Meteor.startup(() => {
 
         {/* /user/:name Routes, url sends User Name, Latitude and Longitude values to the screen*/}
         {/* Check out the "import { User } from '../../ui/pages/user.jsx' " statement on line 10 of this file^^^*/}
-        <Route path="/user/:name" component={User} />
+        <Route path="/:name" component={User} />
 
       </Route>
 
