@@ -24,4 +24,3 @@ accounts-ui
 accounts-password
 react-meteor-data
 mdg:geolocation
-dburles:google-maps
