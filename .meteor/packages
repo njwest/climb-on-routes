@@ -24,3 +24,4 @@ accounts-ui
 accounts-password
 react-meteor-data
 mdg:geolocation
+ultimatejs:tracker-react
